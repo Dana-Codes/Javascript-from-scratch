@@ -1,0 +1,1 @@
+i will walk you the inspiration behind this projects/teaching 
