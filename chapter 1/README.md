@@ -11,7 +11,7 @@ So that's the binary number 0001101. Its non-zero digits for 8, 4 and 1 and add 
 
 
 
-##VALUES
+## VALUES
 
 Imagine a sea of bits-- an ocean of them. A typical modern computer has more than 30 billion bits in its volatile data storage (working memory). Nonvalatile storage (the hard disk or equivalent) tends to have yet few orders of magnitude more.
 To be able to work with such quantities of bits without getting lost, we must seperate them into chunks that represent pieces of information. In Javascript environment, those chunks are called values. Though all values are made of bits, they play different roles. Every value has a type that determines its role
